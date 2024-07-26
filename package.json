@@ -1,0 +1,27 @@
+{
+  "name": "full-backend-zero",
+  "version": "1.0.0",
+  "description": "phamminhhuy 091001",
+  "main": "sever.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huyprozzc22/udemy_fullstack-backend-zero.git"
+  },
+  "keywords": [
+    "nodejs",
+    "react"
+  ],
+  "author": "Huypm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huyprozzc22/udemy_fullstack-backend-zero/issues"
+  },
+  "homepage": "https://github.com/huyprozzc22/udemy_fullstack-backend-zero#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
